@@ -1,5 +1,8 @@
 # MaskRecognition
 
+
+## Name: Mithil K
+## Roll no: 21101036
 </br>
 -	Predicts whether a person is wearing a mask or not.
 </br>
